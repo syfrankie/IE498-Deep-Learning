@@ -1,0 +1,30 @@
+----------------------------------------
+Begin Torque Prologue on nid25258
+at Mon Mar  9 14:10:00 CDT 2020
+Job Id:			11124922.bw
+Username:		syf1219
+Group:			EOT_bbby
+Job name:		hw3_cifar10
+Requested resources:	nodes=01:ppn=16:xk,walltime=00:10:00,neednodes=01:ppn=16:xk
+Queue:			normal
+Account:		bbby
+End Torque Prologue:  0.113 elapsed
+----------------------------------------
+
+
+
+
+epoch 1 cost 29.437918 sec loss 1.3755
+epoch 2 cost 28.331418 sec loss 1.0821
+epoch 3 cost 28.340627 sec loss 1.0308
+epoch 4 cost 28.342748 sec loss 1.0664
+epoch 5 cost 28.345100 sec loss 0.7992
+epoch 6 cost 28.353611 sec loss 0.6928
+epoch 7 cost 28.351108 sec loss 0.7899
+epoch 8 cost 28.352793 sec loss 0.8682
+epoch 9 cost 28.353258 sec loss 0.7179
+epoch 10 cost 28.356968 sec loss 0.5268
+Finished
+Training Accuracy is: 84.18
+Testing Accuracy is: 80.12
+Application 90286132 resources: utime ~289s, stime ~48s, Rss ~2706068, inblocks ~542554, outblocks ~1934
