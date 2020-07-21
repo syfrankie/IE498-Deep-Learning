@@ -1,0 +1,55 @@
+Namespace(algo='a2c', batch_size=64, checkpoint_freq=20000, discount=0.996, ent_coef=0.01, env='CartPole-v1', eps_decay=200000, frame_skip=1, frame_stack=4, load='', log='log.txt', lr=0.001, niter=10000, nproc=4, parallel_env=0, print_freq=200, replay_size=1000000, save_dir='cartpole_a2c/', target_update=2500, train_freq=16, train_start=0, value_coef=0.01)
+observation space: Box(4,)
+action space: Discrete(2)
+running on device cpu
+obses on reset: 4 x (4,) float32
+iter    200 |loss   0.88 |n_ep    39 |ep_len   18.3 |ep_rew  18.26 |raw_ep_rew  18.26 |env_step    800 |time 00:00 rem 00:26
+iter    400 |loss   0.84 |n_ep    76 |ep_len   18.7 |ep_rew  18.65 |raw_ep_rew  18.65 |env_step   1600 |time 00:01 rem 00:26
+iter    600 |loss   0.77 |n_ep   119 |ep_len   20.4 |ep_rew  20.37 |raw_ep_rew  20.37 |env_step   2400 |time 00:01 rem 00:23
+iter    800 |loss   0.71 |n_ep   163 |ep_len   17.3 |ep_rew  17.34 |raw_ep_rew  17.34 |env_step   3200 |time 00:01 rem 00:22
+iter   1000 |loss   0.71 |n_ep   203 |ep_len   18.9 |ep_rew  18.87 |raw_ep_rew  18.87 |env_step   4000 |time 00:02 rem 00:20
+iter   1200 |loss   0.93 |n_ep   244 |ep_len   18.0 |ep_rew  17.97 |raw_ep_rew  17.97 |env_step   4800 |time 00:02 rem 00:20
+iter   1400 |loss   0.80 |n_ep   279 |ep_len   26.2 |ep_rew  26.16 |raw_ep_rew  26.16 |env_step   5600 |time 00:03 rem 00:20
+iter   1600 |loss   0.98 |n_ep   303 |ep_len   30.2 |ep_rew  30.20 |raw_ep_rew  30.20 |env_step   6400 |time 00:03 rem 00:19
+iter   1800 |loss   0.84 |n_ep   329 |ep_len   32.1 |ep_rew  32.06 |raw_ep_rew  32.06 |env_step   7200 |time 00:04 rem 00:19
+iter   2000 |loss   0.60 |n_ep   346 |ep_len   48.4 |ep_rew  48.42 |raw_ep_rew  48.42 |env_step   8000 |time 00:04 rem 00:18
+iter   2200 |loss   0.65 |n_ep   365 |ep_len   46.0 |ep_rew  45.98 |raw_ep_rew  45.98 |env_step   8800 |time 00:05 rem 00:17
+iter   2400 |loss   0.73 |n_ep   378 |ep_len   53.6 |ep_rew  53.58 |raw_ep_rew  53.58 |env_step   9600 |time 00:05 rem 00:17
+iter   2600 |loss   0.37 |n_ep   397 |ep_len   48.4 |ep_rew  48.44 |raw_ep_rew  48.44 |env_step  10400 |time 00:05 rem 00:16
+iter   2800 |loss   0.67 |n_ep   415 |ep_len   44.2 |ep_rew  44.22 |raw_ep_rew  44.22 |env_step  11200 |time 00:06 rem 00:16
+iter   3000 |loss   0.70 |n_ep   434 |ep_len   39.7 |ep_rew  39.69 |raw_ep_rew  39.69 |env_step  12000 |time 00:06 rem 00:16
+iter   3200 |loss   0.49 |n_ep   449 |ep_len   49.1 |ep_rew  49.09 |raw_ep_rew  49.09 |env_step  12800 |time 00:07 rem 00:15
+iter   3400 |loss   0.52 |n_ep   459 |ep_len   69.7 |ep_rew  69.69 |raw_ep_rew  69.69 |env_step  13600 |time 00:07 rem 00:14
+iter   3600 |loss   0.97 |n_ep   473 |ep_len   60.4 |ep_rew  60.42 |raw_ep_rew  60.42 |env_step  14400 |time 00:08 rem 00:14
+iter   3800 |loss   0.97 |n_ep   483 |ep_len   62.1 |ep_rew  62.11 |raw_ep_rew  62.11 |env_step  15200 |time 00:08 rem 00:14
+iter   4000 |loss   0.92 |n_ep   490 |ep_len   89.5 |ep_rew  89.50 |raw_ep_rew  89.50 |env_step  16000 |time 00:09 rem 00:13
+iter   4200 |loss   0.07 |n_ep   498 |ep_len  102.2 |ep_rew 102.17 |raw_ep_rew 102.17 |env_step  16800 |time 00:09 rem 00:13
+iter   4400 |loss   0.40 |n_ep   505 |ep_len   95.1 |ep_rew  95.13 |raw_ep_rew  95.13 |env_step  17600 |time 00:10 rem 00:12
+iter   4600 |loss   0.21 |n_ep   513 |ep_len  102.2 |ep_rew 102.23 |raw_ep_rew 102.23 |env_step  18400 |time 00:10 rem 00:12
+iter   4800 |loss   0.17 |n_ep   521 |ep_len   97.2 |ep_rew  97.19 |raw_ep_rew  97.19 |env_step  19200 |time 00:10 rem 00:11
+iter   5000 |loss   0.09 |n_ep   530 |ep_len   97.9 |ep_rew  97.86 |raw_ep_rew  97.86 |env_step  20000 |time 00:11 rem 00:11
+iter   5200 |loss   0.87 |n_ep   536 |ep_len  110.6 |ep_rew 110.57 |raw_ep_rew 110.57 |env_step  20800 |time 00:11 rem 00:10
+iter   5400 |loss   0.28 |n_ep   546 |ep_len   94.3 |ep_rew  94.33 |raw_ep_rew  94.33 |env_step  21600 |time 00:11 rem 00:10
+iter   5600 |loss   0.12 |n_ep   553 |ep_len   96.3 |ep_rew  96.32 |raw_ep_rew  96.32 |env_step  22400 |time 00:12 rem 00:09
+iter   5800 |loss   0.54 |n_ep   562 |ep_len   97.6 |ep_rew  97.62 |raw_ep_rew  97.62 |env_step  23200 |time 00:12 rem 00:09
+iter   6000 |loss   0.73 |n_ep   568 |ep_len  108.0 |ep_rew 108.01 |raw_ep_rew 108.01 |env_step  24000 |time 00:13 rem 00:08
+iter   6200 |loss   0.07 |n_ep   577 |ep_len   95.1 |ep_rew  95.13 |raw_ep_rew  95.13 |env_step  24800 |time 00:13 rem 00:08
+iter   6400 |loss   0.87 |n_ep   583 |ep_len   80.2 |ep_rew  80.21 |raw_ep_rew  80.21 |env_step  25600 |time 00:14 rem 00:07
+iter   6600 |loss   0.08 |n_ep   591 |ep_len  110.7 |ep_rew 110.68 |raw_ep_rew 110.68 |env_step  26400 |time 00:14 rem 00:07
+iter   6800 |loss   0.86 |n_ep   597 |ep_len  112.9 |ep_rew 112.93 |raw_ep_rew 112.93 |env_step  27200 |time 00:15 rem 00:07
+iter   7000 |loss   0.56 |n_ep   604 |ep_len  117.3 |ep_rew 117.28 |raw_ep_rew 117.28 |env_step  28000 |time 00:15 rem 00:06
+iter   7200 |loss   1.03 |n_ep   607 |ep_len  148.7 |ep_rew 148.66 |raw_ep_rew 148.66 |env_step  28800 |time 00:16 rem 00:06
+iter   7400 |loss   0.75 |n_ep   611 |ep_len  159.7 |ep_rew 159.66 |raw_ep_rew 159.66 |env_step  29600 |time 00:16 rem 00:05
+iter   7600 |loss   0.77 |n_ep   616 |ep_len  168.7 |ep_rew 168.73 |raw_ep_rew 168.73 |env_step  30400 |time 00:17 rem 00:05
+iter   7800 |loss   0.64 |n_ep   620 |ep_len  184.2 |ep_rew 184.24 |raw_ep_rew 184.24 |env_step  31200 |time 00:17 rem 00:04
+iter   8000 |loss   0.86 |n_ep   625 |ep_len  168.9 |ep_rew 168.88 |raw_ep_rew 168.88 |env_step  32000 |time 00:18 rem 00:04
+iter   8200 |loss   0.78 |n_ep   629 |ep_len  168.8 |ep_rew 168.82 |raw_ep_rew 168.82 |env_step  32800 |time 00:18 rem 00:04
+iter   8400 |loss   0.07 |n_ep   633 |ep_len  190.0 |ep_rew 190.01 |raw_ep_rew 190.01 |env_step  33600 |time 00:19 rem 00:03
+iter   8600 |loss   0.64 |n_ep   635 |ep_len  192.9 |ep_rew 192.93 |raw_ep_rew 192.93 |env_step  34400 |time 00:20 rem 00:03
+iter   8800 |loss   0.69 |n_ep   641 |ep_len  213.4 |ep_rew 213.35 |raw_ep_rew 213.35 |env_step  35200 |time 00:20 rem 00:02
+iter   9000 |loss   0.71 |n_ep   644 |ep_len  191.7 |ep_rew 191.67 |raw_ep_rew 191.67 |env_step  36000 |time 00:21 rem 00:02
+iter   9200 |loss   0.67 |n_ep   650 |ep_len  175.2 |ep_rew 175.24 |raw_ep_rew 175.24 |env_step  36800 |time 00:22 rem 00:01
+iter   9400 |loss   0.97 |n_ep   655 |ep_len  168.3 |ep_rew 168.31 |raw_ep_rew 168.31 |env_step  37600 |time 00:23 rem 00:01
+iter   9600 |loss   0.94 |n_ep   660 |ep_len  176.0 |ep_rew 176.00 |raw_ep_rew 176.00 |env_step  38400 |time 00:23 rem 00:00
+iter   9800 |loss   0.35 |n_ep   663 |ep_len  188.9 |ep_rew 188.90 |raw_ep_rew 188.90 |env_step  39200 |time 00:24 rem 00:00
+save checkpoint to cartpole_a2c/9999.pth
