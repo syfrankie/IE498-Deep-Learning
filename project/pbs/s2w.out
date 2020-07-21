@@ -1,0 +1,433 @@
+----------------------------------------
+Begin Torque Prologue on nid25330
+at Sun May  3 17:46:58 CDT 2020
+Job Id:			11242378.bw
+Username:		syf1219
+Group:			EOT_bbby
+Job name:		project
+Requested resources:	nodes=01:ppn=16:xk,walltime=08:00:00,neednodes=01:ppn=16:xk
+Queue:			normal
+Account:		bbby
+End Torque Prologue:  0.111 elapsed
+----------------------------------------
+
+
+
+
+Epoch 1 | Cost 2566.9 sec
+Loss_D_X 0.0002 | Loss_D_Y 0.0004 | Loss_G_F 0.0072
+Epoch 2 | Cost 2577.2 sec
+Loss_D_X 0.0005 | Loss_D_Y 0.0002 | Loss_G_F 0.0055
+Epoch 3 | Cost 2576.9 sec
+Loss_D_X 0.0001 | Loss_D_Y 0.0003 | Loss_G_F 0.0052
+Epoch 4 | Cost 2576.5 sec
+Loss_D_X 0.0002 | Loss_D_Y 0.0001 | Loss_G_F 0.0047
+Epoch 5 | Cost 2576.7 sec
+Loss_D_X 0.0003 | Loss_D_Y 0.0001 | Loss_G_F 0.0044
+Epoch 6 | Cost 2576.9 sec
+Loss_D_X 0.0001 | Loss_D_Y 0.0005 | Loss_G_F 0.0037
+Epoch 7 | Cost 2577.9 sec
+Loss_D_X 0.0001 | Loss_D_Y 0.0002 | Loss_G_F 0.0043
+Epoch 8 | Cost 2579.6 sec
+Loss_D_X 0.0004 | Loss_D_Y 0.0002 | Loss_G_F 0.0035
+Epoch 9 | Cost 2580.3 sec
+Loss_D_X 0.0001 | Loss_D_Y 0.0001 | Loss_G_F 0.0033
+Epoch 10 | Cost 2580.0 sec
+Loss_D_X 0.0001 | Loss_D_Y 0.0002 | Loss_G_F 0.0035
+
+Epoch 11 | Cost 2567.5 sec
+Loss_D_X 0.0002 | Loss_D_Y 0.0000 | Loss_G_F 0.0033
+Epoch 12 | Cost 2578.7 sec
+Loss_D_X 0.0000 | Loss_D_Y 0.0001 | Loss_G_F 0.0034
+Epoch 13 | Cost 2578.8 sec
+Loss_D_X 0.0001 | Loss_D_Y 0.0002 | Loss_G_F 0.0035
+Epoch 14 | Cost 2579.9 sec
+Loss_D_X 0.0002 | Loss_D_Y 0.0003 | Loss_G_F 0.0032
+Epoch 15 | Cost 2580.3 sec
+Loss_D_X 0.0003 | Loss_D_Y 0.0002 | Loss_G_F 0.0038
+Epoch 16 | Cost 2580.3 sec
+Loss_D_X 0.0001 | Loss_D_Y 0.0005 | Loss_G_F 0.0030
+Epoch 17 | Cost 2579.9 sec
+Loss_D_X 0.0002 | Loss_D_Y 0.0001 | Loss_G_F 0.0064
+Epoch 18 | Cost 2580.5 sec
+Loss_D_X 0.0003 | Loss_D_Y 0.0001 | Loss_G_F 0.0033
+Epoch 19 | Cost 2581.8 sec
+Loss_D_X 0.0002 | Loss_D_Y 0.0000 | Loss_G_F 0.0036
+Epoch 20 | Cost 2582.1 sec
+Loss_D_X 0.0002 | Loss_D_Y 0.0003 | Loss_G_F 0.0028
+
+Epoch 21 | Cost 2566.0 sec
+Loss_D_X 0.0001 | Loss_D_Y 0.0002 | Loss_G_F 0.0022
+Epoch 22 | Cost 2576.9 sec
+Loss_D_X 0.0002 | Loss_D_Y 0.0002 | Loss_G_F 0.0030
+Epoch 23 | Cost 2577.2 sec
+Loss_D_X 0.0001 | Loss_D_Y 0.0001 | Loss_G_F 0.0033
+Epoch 24 | Cost 2577.5 sec
+Loss_D_X 0.0002 | Loss_D_Y 0.0001 | Loss_G_F 0.0033
+Epoch 25 | Cost 2578.8 sec
+Loss_D_X 0.0002 | Loss_D_Y 0.0002 | Loss_G_F 0.0032
+Epoch 26 | Cost 2579.6 sec
+Loss_D_X 0.0004 | Loss_D_Y 0.0001 | Loss_G_F 0.0022
+Epoch 27 | Cost 2579.2 sec
+Loss_D_X 0.0002 | Loss_D_Y 0.0003 | Loss_G_F 0.0029
+Epoch 28 | Cost 2579.5 sec
+Loss_D_X 0.0000 | Loss_D_Y 0.0002 | Loss_G_F 0.0067
+Epoch 29 | Cost 2580.0 sec
+Loss_D_X 0.0002 | Loss_D_Y 0.0003 | Loss_G_F 0.0028
+Epoch 30 | Cost 2579.9 sec
+Loss_D_X 0.0001 | Loss_D_Y 0.0001 | Loss_G_F 0.0041
+
+Epoch 31 | Cost 2566.5 sec
+Loss_D_X 0.0001 | Loss_D_Y 0.0001 | Loss_G_F 0.0040
+Epoch 32 | Cost 2576.6 sec
+Loss_D_X 0.0003 | Loss_D_Y 0.0001 | Loss_G_F 0.0030
+Epoch 33 | Cost 2576.3 sec
+Loss_D_X 0.0001 | Loss_D_Y 0.0002 | Loss_G_F 0.0037
+Epoch 34 | Cost 2577.5 sec
+Loss_D_X 0.0001 | Loss_D_Y 0.0001 | Loss_G_F 0.0031
+Epoch 35 | Cost 2578.7 sec
+Loss_D_X 0.0001 | Loss_D_Y 0.0001 | Loss_G_F 0.0048
+Epoch 36 | Cost 2580.4 sec
+Loss_D_X 0.0001 | Loss_D_Y 0.0001 | Loss_G_F 0.0035
+Epoch 37 | Cost 2580.2 sec
+Loss_D_X 0.0001 | Loss_D_Y 0.0002 | Loss_G_F 0.0032
+Epoch 38 | Cost 2660.6 sec
+Loss_D_X 0.0004 | Loss_D_Y 0.0001 | Loss_G_F 0.0024
+Epoch 39 | Cost 2580.2 sec
+Loss_D_X 0.0002 | Loss_D_Y 0.0002 | Loss_G_F 0.0030
+Epoch 40 | Cost 2581.9 sec
+Loss_D_X 0.0000 | Loss_D_Y 0.0001 | Loss_G_F 0.0023
+
+Epoch 41 | Cost 2566.1 sec
+Loss_D_X 0.0001 | Loss_D_Y 0.0002 | Loss_G_F 0.0041
+Epoch 42 | Cost 2576.1 sec
+Loss_D_X 0.0001 | Loss_D_Y 0.0001 | Loss_G_F 0.0042
+Epoch 43 | Cost 2576.9 sec
+Loss_D_X 0.0001 | Loss_D_Y 0.0001 | Loss_G_F 0.0022
+Epoch 44 | Cost 2576.4 sec
+Loss_D_X 0.0001 | Loss_D_Y 0.0001 | Loss_G_F 0.0031
+Epoch 45 | Cost 2576.4 sec
+Loss_D_X 0.0002 | Loss_D_Y 0.0002 | Loss_G_F 0.0026
+Epoch 46 | Cost 2576.6 sec
+Loss_D_X 0.0001 | Loss_D_Y 0.0002 | Loss_G_F 0.0029
+Epoch 47 | Cost 2576.9 sec
+Loss_D_X 0.0001 | Loss_D_Y 0.0003 | Loss_G_F 0.0023
+Epoch 48 | Cost 2578.2 sec
+Loss_D_X 0.0003 | Loss_D_Y 0.0001 | Loss_G_F 0.0028
+Epoch 49 | Cost 2577.9 sec
+Loss_D_X 0.0001 | Loss_D_Y 0.0001 | Loss_G_F 0.0037
+Epoch 50 | Cost 2578.3 sec
+Loss_D_X 0.0001 | Loss_D_Y 0.0001 | Loss_G_F 0.0035
+
+Epoch 51 | Cost 2565.4 sec
+Loss_D_X 0.0001 | Loss_D_Y 0.0001 | Loss_G_F 0.0033
+Epoch 52 | Cost 2576.0 sec
+Loss_D_X 0.0001 | Loss_D_Y 0.0001 | Loss_G_F 0.0026
+Epoch 53 | Cost 2576.2 sec
+Loss_D_X 0.0000 | Loss_D_Y 0.0002 | Loss_G_F 0.0036
+Epoch 54 | Cost 2576.1 sec
+Loss_D_X 0.0000 | Loss_D_Y 0.0001 | Loss_G_F 0.0027
+Epoch 55 | Cost 2576.1 sec
+Loss_D_X 0.0001 | Loss_D_Y 0.0000 | Loss_G_F 0.0043
+Epoch 56 | Cost 2576.1 sec
+Loss_D_X 0.0001 | Loss_D_Y 0.0001 | Loss_G_F 0.0023
+Epoch 57 | Cost 2576.5 sec
+Loss_D_X 0.0001 | Loss_D_Y 0.0001 | Loss_G_F 0.0027
+Epoch 58 | Cost 2576.3 sec
+Loss_D_X 0.0002 | Loss_D_Y 0.0001 | Loss_G_F 0.0025
+Epoch 59 | Cost 2576.5 sec
+Loss_D_X 0.0000 | Loss_D_Y 0.0001 | Loss_G_F 0.0025
+Epoch 60 | Cost 2577.3 sec
+Loss_D_X 0.0002 | Loss_D_Y 0.0001 | Loss_G_F 0.0030
+
+Epoch 61 | Cost 2566.5 sec
+Loss_D_X 0.0001887 | Loss_D_Y 0.0001777 | Loss_G_F 0.0020265
+Epoch 62 | Cost 2576.8 sec
+Loss_D_X 0.0001528 | Loss_D_Y 0.0001598 | Loss_G_F 0.0030863
+Epoch 63 | Cost 2576.8 sec
+Loss_D_X 0.0002014 | Loss_D_Y 0.0000690 | Loss_G_F 0.0022588
+Epoch 64 | Cost 2576.9 sec
+Loss_D_X 0.0000588 | Loss_D_Y 0.0000365 | Loss_G_F 0.0029173
+Epoch 65 | Cost 2577.0 sec
+Loss_D_X 0.0000500 | Loss_D_Y 0.0000724 | Loss_G_F 0.0031533
+Epoch 66 | Cost 2577.9 sec
+Loss_D_X 0.0000713 | Loss_D_Y 0.0000087 | Loss_G_F 0.0031107
+Epoch 67 | Cost 2578.9 sec
+Loss_D_X 0.0002634 | Loss_D_Y 0.0000731 | Loss_G_F 0.0033393
+Epoch 68 | Cost 2580.0 sec
+Loss_D_X 0.0001557 | Loss_D_Y 0.0001260 | Loss_G_F 0.0029662
+Epoch 69 | Cost 2579.7 sec
+Loss_D_X 0.0001216 | Loss_D_Y 0.0003074 | Loss_G_F 0.0031092
+Epoch 70 | Cost 2579.6 sec
+Loss_D_X 0.0003621 | Loss_D_Y 0.0001835 | Loss_G_F 0.0024388
+
+Epoch 71 | Cost 2580.7 sec
+Loss_D_X 0.0003454 | Loss_D_Y 0.0001891 | Loss_G_F 0.0026812
+Epoch 72 | Cost 2581.5 sec
+Loss_D_X 0.0001514 | Loss_D_Y 0.0001678 | Loss_G_F 0.0029504
+Epoch 73 | Cost 2581.6 sec
+Loss_D_X 0.0001686 | Loss_D_Y 0.0001267 | Loss_G_F 0.0030516
+Epoch 74 | Cost 2581.9 sec
+Loss_D_X 0.0001736 | Loss_D_Y 0.0000039 | Loss_G_F 0.0033579
+Epoch 75 | Cost 2581.7 sec
+Loss_D_X 0.0000841 | Loss_D_Y 0.0000825 | Loss_G_F 0.0034790
+Epoch 76 | Cost 2581.7 sec
+Loss_D_X 0.0000294 | Loss_D_Y 0.0000278 | Loss_G_F 0.0025608
+Epoch 77 | Cost 2582.3 sec
+Loss_D_X 0.0000301 | Loss_D_Y 0.0000032 | Loss_G_F 0.0038711
+Epoch 78 | Cost 2582.0 sec
+Loss_D_X 0.0000518 | Loss_D_Y 0.0001929 | Loss_G_F 0.0025104
+Epoch 79 | Cost 2582.1 sec
+Loss_D_X 0.0002049 | Loss_D_Y 0.0001564 | Loss_G_F 0.0038572
+Epoch 80 | Cost 2582.6 sec
+Loss_D_X 0.0000761 | Loss_D_Y 0.0002055 | Loss_G_F 0.0028379
+
+Epoch 81 | Cost 2583.6 sec
+Loss_D_X 0.0000961 | Loss_D_Y 0.0001903 | Loss_G_F 0.0027204
+Epoch 82 | Cost 2584.5 sec
+Loss_D_X 0.0003425 | Loss_D_Y 0.0002007 | Loss_G_F 0.0030066
+Epoch 83 | Cost 2585.8 sec
+Loss_D_X 0.0000844 | Loss_D_Y 0.0000660 | Loss_G_F 0.0026270
+Epoch 84 | Cost 2586.0 sec
+Loss_D_X 0.0001042 | Loss_D_Y 0.0000948 | Loss_G_F 0.0034545
+Epoch 85 | Cost 2585.9 sec
+Loss_D_X 0.0001218 | Loss_D_Y 0.0000885 | Loss_G_F 0.0036140
+Epoch 86 | Cost 2585.8 sec
+Loss_D_X 0.0002092 | Loss_D_Y 0.0000054 | Loss_G_F 0.0036984
+Epoch 87 | Cost 2586.6 sec
+Loss_D_X 0.0001083 | Loss_D_Y 0.0001303 | Loss_G_F 0.0027084
+Epoch 88 | Cost 2586.9 sec
+Loss_D_X 0.0001202 | Loss_D_Y 0.0000028 | Loss_G_F 0.0031723
+Epoch 89 | Cost 2586.8 sec
+Loss_D_X 0.0002831 | Loss_D_Y 0.0001222 | Loss_G_F 0.0025660
+Epoch 90 | Cost 2587.2 sec
+Loss_D_X 0.0000270 | Loss_D_Y 0.0000308 | Loss_G_F 0.0027783
+
+Epoch 91 | Cost 2587.2 sec
+Loss_D_X 0.0003159 | Loss_D_Y 0.0000428 | Loss_G_F 0.0029734
+Epoch 92 | Cost 2587.2 sec
+Loss_D_X 0.0001827 | Loss_D_Y 0.0000788 | Loss_G_F 0.0038474
+Epoch 93 | Cost 2586.8 sec
+Loss_D_X 0.0000696 | Loss_D_Y 0.0000190 | Loss_G_F 0.0033436
+Epoch 94 | Cost 2587.1 sec
+Loss_D_X 0.0001579 | Loss_D_Y 0.0000327 | Loss_G_F 0.0037753
+Epoch 95 | Cost 2587.6 sec
+Loss_D_X 0.0000280 | Loss_D_Y 0.0005297 | Loss_G_F 0.0029331
+Epoch 96 | Cost 2588.0 sec
+Loss_D_X 0.0002198 | Loss_D_Y 0.0001110 | Loss_G_F 0.0035276
+Epoch 97 | Cost 2588.0 sec
+Loss_D_X 0.0001525 | Loss_D_Y 0.0002159 | Loss_G_F 0.0026081
+Epoch 98 | Cost 2587.8 sec
+Loss_D_X 0.0000653 | Loss_D_Y 0.0000092 | Loss_G_F 0.0028654
+Epoch 99 | Cost 2588.2 sec
+Loss_D_X 0.0000221 | Loss_D_Y 0.0001252 | Loss_G_F 0.0025741
+Epoch 100 | Cost 2588.5 sec
+Loss_D_X 0.0001430 | Loss_D_Y 0.0000961 | Loss_G_F 0.0031086
+
+Epoch 101 | Cost 2588.3 sec
+Loss_D_X 0.0002256 | Loss_D_Y 0.0001632 | Loss_G_F 0.0036203
+Epoch 102 | Cost 2588.1 sec
+Loss_D_X 0.0001921 | Loss_D_Y 0.0001774 | Loss_G_F 0.0031052
+Epoch 103 | Cost 2588.8 sec
+Loss_D_X 0.0001538 | Loss_D_Y 0.0000181 | Loss_G_F 0.0034692
+Epoch 104 | Cost 2588.6 sec
+Loss_D_X 0.0001521 | Loss_D_Y 0.0000091 | Loss_G_F 0.0038948
+Epoch 105 | Cost 2588.4 sec
+Loss_D_X 0.0000095 | Loss_D_Y 0.0001598 | Loss_G_F 0.0030295
+Epoch 106 | Cost 2588.3 sec
+Loss_D_X 0.0004359 | Loss_D_Y 0.0000974 | Loss_G_F 0.0028663
+Epoch 107 | Cost 2588.2 sec
+Loss_D_X 0.0000459 | Loss_D_Y 0.0002502 | Loss_G_F 0.0028294
+Epoch 108 | Cost 2588.2 sec
+Loss_D_X 0.0001085 | Loss_D_Y 0.0002257 | Loss_G_F 0.0030758
+Epoch 109 | Cost 2587.8 sec
+Loss_D_X 0.0001479 | Loss_D_Y 0.0000923 | Loss_G_F 0.0030984
+Epoch 110 | Cost 2588.3 sec
+Loss_D_X 0.0000698 | Loss_D_Y 0.0000411 | Loss_G_F 0.0029619
+
+Epoch 111 | Cost 2588.5 sec
+Loss_D_X 0.0001018 | Loss_D_Y 0.0000720 | Loss_G_F 0.0029063
+Epoch 112 | Cost 2588.7 sec
+Loss_D_X 0.0000683 | Loss_D_Y 0.0000935 | Loss_G_F 0.0029344
+Epoch 113 | Cost 2589.5 sec
+Loss_D_X 0.0003064 | Loss_D_Y 0.0000487 | Loss_G_F 0.0033321
+Epoch 114 | Cost 2590.8 sec
+Loss_D_X 0.0002449 | Loss_D_Y 0.0001612 | Loss_G_F 0.0030173
+Epoch 115 | Cost 2591.4 sec
+Loss_D_X 0.0001575 | Loss_D_Y 0.0001882 | Loss_G_F 0.0032501
+Epoch 116 | Cost 2591.3 sec
+Loss_D_X 0.0001236 | Loss_D_Y 0.0000291 | Loss_G_F 0.0030624
+Epoch 117 | Cost 2590.8 sec
+Loss_D_X 0.0000624 | Loss_D_Y 0.0001020 | Loss_G_F 0.0026567
+Epoch 118 | Cost 2591.0 sec
+Loss_D_X 0.0000561 | Loss_D_Y 0.0000049 | Loss_G_F 0.0032929
+Epoch 119 | Cost 2590.8 sec
+Loss_D_X 0.0000753 | Loss_D_Y 0.0000355 | Loss_G_F 0.0032626
+Epoch 120 | Cost 2590.9 sec
+Loss_D_X 0.0001069 | Loss_D_Y 0.0000492 | Loss_G_F 0.0026106
+
+Epoch 121 | Cost 2591.0 sec
+Loss_D_X 0.0002398 | Loss_D_Y 0.0000518 | Loss_G_F 0.0030079
+Epoch 122 | Cost 2590.6 sec
+Loss_D_X 0.0000213 | Loss_D_Y 0.0001961 | Loss_G_F 0.0032492
+Epoch 123 | Cost 2590.9 sec
+Loss_D_X 0.0000187 | Loss_D_Y 0.0001167 | Loss_G_F 0.0038921
+Epoch 124 | Cost 2590.4 sec
+Loss_D_X 0.0000691 | Loss_D_Y 0.0000559 | Loss_G_F 0.0045585
+Epoch 125 | Cost 2590.5 sec
+Loss_D_X 0.0000690 | Loss_D_Y 0.0000721 | Loss_G_F 0.0032272
+Epoch 126 | Cost 2590.0 sec
+Loss_D_X 0.0002426 | Loss_D_Y 0.0000432 | Loss_G_F 0.0033946
+Epoch 127 | Cost 2590.0 sec
+Loss_D_X 0.0000689 | Loss_D_Y 0.0000126 | Loss_G_F 0.0034480
+Epoch 128 | Cost 2590.9 sec
+Loss_D_X 0.0000242 | Loss_D_Y 0.0001309 | Loss_G_F 0.0033855
+Epoch 129 | Cost 2590.5 sec
+Loss_D_X 0.0001990 | Loss_D_Y 0.0000360 | Loss_G_F 0.0022748
+Epoch 130 | Cost 2591.4 sec
+Loss_D_X 0.0001404 | Loss_D_Y 0.0000227 | Loss_G_F 0.0043432
+
+Epoch 131 | Cost 2590.8 sec
+Loss_D_X 0.0000430 | Loss_D_Y 0.0000585 | Loss_G_F 0.0033623
+Epoch 132 | Cost 2590.4 sec
+Loss_D_X 0.0000902 | Loss_D_Y 0.0000052 | Loss_G_F 0.0035318
+Epoch 133 | Cost 2590.6 sec
+Loss_D_X 0.0001136 | Loss_D_Y 0.0000992 | Loss_G_F 0.0040118
+Epoch 134 | Cost 2591.8 sec
+Loss_D_X 0.0000148 | Loss_D_Y 0.0001729 | Loss_G_F 0.0028175
+Epoch 135 | Cost 2593.5 sec
+Loss_D_X 0.0000644 | Loss_D_Y 0.0000319 | Loss_G_F 0.0041701
+Epoch 136 | Cost 2593.9 sec
+Loss_D_X 0.0000030 | Loss_D_Y 0.0000638 | Loss_G_F 0.0027061
+Epoch 137 | Cost 2593.6 sec
+Loss_D_X 0.0000982 | Loss_D_Y 0.0000325 | Loss_G_F 0.0039466
+Epoch 138 | Cost 2593.9 sec
+Loss_D_X 0.0001220 | Loss_D_Y 0.0001455 | Loss_G_F 0.0030583
+Epoch 139 | Cost 2594.0 sec
+Loss_D_X 0.0001406 | Loss_D_Y 0.0001278 | Loss_G_F 0.0025219
+Epoch 140 | Cost 2593.9 sec
+Loss_D_X 0.0001017 | Loss_D_Y 0.0000081 | Loss_G_F 0.0029712
+
+Epoch 141 | Cost 2593.7 sec
+Loss_D_X 0.0000773 | Loss_D_Y 0.0000440 | Loss_G_F 0.0032001
+Epoch 142 | Cost 2594.1 sec
+Loss_D_X 0.0000045 | Loss_D_Y 0.0000602 | Loss_G_F 0.0027301
+Epoch 143 | Cost 2594.1 sec
+Loss_D_X 0.0000511 | Loss_D_Y 0.0000639 | Loss_G_F 0.0027252
+Epoch 144 | Cost 2594.1 sec
+Loss_D_X 0.0001779 | Loss_D_Y 0.0001686 | Loss_G_F 0.0029798
+Epoch 145 | Cost 2594.1 sec
+Loss_D_X 0.0000231 | Loss_D_Y 0.0002521 | Loss_G_F 0.0032661
+Epoch 146 | Cost 2594.0 sec
+Loss_D_X 0.0001965 | Loss_D_Y 0.0001474 | Loss_G_F 0.0028817
+Epoch 147 | Cost 2594.4 sec
+Loss_D_X 0.0000532 | Loss_D_Y 0.0001391 | Loss_G_F 0.0031617
+Epoch 148 | Cost 2594.8 sec
+Loss_D_X 0.0000759 | Loss_D_Y 0.0000942 | Loss_G_F 0.0035615
+Epoch 149 | Cost 2595.0 sec
+Loss_D_X 0.0001568 | Loss_D_Y 0.0001122 | Loss_G_F 0.0041935
+Epoch 150 | Cost 2594.8 sec
+Loss_D_X 0.0001709 | Loss_D_Y 0.0000120 | Loss_G_F 0.0035494
+
+Epoch 151 | Cost 2594.6 sec
+Loss_D_X 0.0002430 | Loss_D_Y 0.0000578 | Loss_G_F 0.0029167
+Epoch 152 | Cost 2594.7 sec
+Loss_D_X 0.0000382 | Loss_D_Y 0.0000834 | Loss_G_F 0.0033344
+Epoch 153 | Cost 2594.7 sec
+Loss_D_X 0.0000799 | Loss_D_Y 0.0000003 | Loss_G_F 0.0033363
+Epoch 154 | Cost 2594.5 sec
+Loss_D_X 0.0002109 | Loss_D_Y 0.0000247 | Loss_G_F 0.0029585
+Epoch 155 | Cost 2594.4 sec
+Loss_D_X 0.0001867 | Loss_D_Y 0.0000821 | Loss_G_F 0.0033962
+Epoch 156 | Cost 2594.2 sec
+Loss_D_X 0.0001293 | Loss_D_Y 0.0001378 | Loss_G_F 0.0025233
+Epoch 157 | Cost 2595.6 sec
+Loss_D_X 0.0001569 | Loss_D_Y 0.0001092 | Loss_G_F 0.0033723
+Epoch 158 | Cost 2597.6 sec
+Loss_D_X 0.0001081 | Loss_D_Y 0.0000143 | Loss_G_F 0.0036949
+Epoch 159 | Cost 2597.6 sec
+Loss_D_X 0.0000723 | Loss_D_Y 0.0000764 | Loss_G_F 0.0037173
+Epoch 160 | Cost 2597.3 sec
+Loss_D_X 0.0001878 | Loss_D_Y 0.0000630 | Loss_G_F 0.0029944
+
+Epoch 161 | Cost 2597.2 sec
+Loss_D_X 0.0000259 | Loss_D_Y 0.0000187 | Loss_G_F 0.0050221
+Epoch 162 | Cost 2597.2 sec
+Loss_D_X 0.0000029 | Loss_D_Y 0.0001096 | Loss_G_F 0.0034149
+Epoch 163 | Cost 2597.0 sec
+Loss_D_X 0.0000482 | Loss_D_Y 0.0000135 | Loss_G_F 0.0036462
+Epoch 164 | Cost 2598.0 sec
+Loss_D_X 0.0002627 | Loss_D_Y 0.0000499 | Loss_G_F 0.0035618
+Epoch 165 | Cost 2598.7 sec
+Loss_D_X 0.0000632 | Loss_D_Y 0.0000453 | Loss_G_F 0.0031976
+Epoch 166 | Cost 2599.4 sec
+Loss_D_X 0.0001074 | Loss_D_Y 0.0000704 | Loss_G_F 0.0027425
+Epoch 167 | Cost 2598.2 sec
+Loss_D_X 0.0000053 | Loss_D_Y 0.0000680 | Loss_G_F 0.0033981
+Epoch 168 | Cost 2597.6 sec
+Loss_D_X 0.0001390 | Loss_D_Y 0.0000030 | Loss_G_F 0.0032977
+Epoch 169 | Cost 2597.5 sec
+Loss_D_X 0.0001086 | Loss_D_Y 0.0001955 | Loss_G_F 0.0038153
+Epoch 170 | Cost 2597.6 sec
+Loss_D_X 0.0001564 | Loss_D_Y 0.0000174 | Loss_G_F 0.0025714
+
+Epoch 171 | Cost 2597.5 sec
+Loss_D_X 0.0000716 | Loss_D_Y 0.0003799 | Loss_G_F 0.0046218
+Epoch 172 | Cost 2597.7 sec
+Loss_D_X 0.0000852 | Loss_D_Y 0.0000098 | Loss_G_F 0.0021765
+Epoch 173 | Cost 2597.5 sec
+Loss_D_X 0.0000735 | Loss_D_Y 0.0000015 | Loss_G_F 0.0033388
+Epoch 174 | Cost 2598.2 sec
+Loss_D_X 0.0000511 | Loss_D_Y 0.0000859 | Loss_G_F 0.0032478
+Epoch 175 | Cost 2599.5 sec
+Loss_D_X 0.0001785 | Loss_D_Y 0.0000119 | Loss_G_F 0.0032546
+Epoch 176 | Cost 2602.0 sec
+Loss_D_X 0.0000847 | Loss_D_Y 0.0000148 | Loss_G_F 0.0031242
+Epoch 177 | Cost 2602.7 sec
+Loss_D_X 0.0001934 | Loss_D_Y 0.0000876 | Loss_G_F 0.0034265
+Epoch 178 | Cost 2602.0 sec
+Loss_D_X 0.0000777 | Loss_D_Y 0.0000237 | Loss_G_F 0.0045016
+Epoch 179 | Cost 2602.2 sec
+Loss_D_X 0.0000094 | Loss_D_Y 0.0000260 | Loss_G_F 0.0032926
+Epoch 180 | Cost 2602.2 sec
+Loss_D_X 0.0000372 | Loss_D_Y 0.0000154 | Loss_G_F 0.0031631
+
+Epoch 181 | Cost 2602.1 sec
+Loss_D_X 0.0001336 | Loss_D_Y 0.0000130 | Loss_G_F 0.0027199
+Epoch 182 | Cost 2601.9 sec
+Loss_D_X 0.0000092 | Loss_D_Y 0.0000153 | Loss_G_F 0.0030277
+Epoch 183 | Cost 2601.9 sec
+Loss_D_X 0.0001326 | Loss_D_Y 0.0000532 | Loss_G_F 0.0029524
+Epoch 184 | Cost 2602.5 sec
+Loss_D_X 0.0000250 | Loss_D_Y 0.0000728 | Loss_G_F 0.0034181
+Epoch 185 | Cost 2602.0 sec
+Loss_D_X 0.0000126 | Loss_D_Y 0.0000102 | Loss_G_F 0.0031669
+Epoch 186 | Cost 2602.0 sec
+Loss_D_X 0.0000849 | Loss_D_Y 0.0000371 | Loss_G_F 0.0031137
+Epoch 187 | Cost 2602.1 sec
+Loss_D_X 0.0000195 | Loss_D_Y 0.0000509 | Loss_G_F 0.0030574
+Epoch 188 | Cost 2602.5 sec
+Loss_D_X 0.0000660 | Loss_D_Y 0.0000453 | Loss_G_F 0.0029146
+Epoch 189 | Cost 2602.2 sec
+Loss_D_X 0.0000013 | Loss_D_Y 0.0000411 | Loss_G_F 0.0034415
+Epoch 190 | Cost 2602.1 sec
+Loss_D_X 0.0000386 | Loss_D_Y 0.0000643 | Loss_G_F 0.0031323
+
+Epoch 191 | Cost 2602.0 sec
+Loss_D_X 0.0000928 | Loss_D_Y 0.0001691 | Loss_G_F 0.0031301
+Epoch 192 | Cost 2602.2 sec
+Loss_D_X 0.0000878 | Loss_D_Y 0.0001249 | Loss_G_F 0.0037583
+Epoch 193 | Cost 2602.1 sec
+Loss_D_X 0.0000862 | Loss_D_Y 0.0000323 | Loss_G_F 0.0029355
+Epoch 194 | Cost 2602.1 sec
+Loss_D_X 0.0000835 | Loss_D_Y 0.0000016 | Loss_G_F 0.0037287
+Epoch 195 | Cost 2602.3 sec
+Loss_D_X 0.0001148 | Loss_D_Y 0.0000863 | Loss_G_F 0.0033186
+Epoch 196 | Cost 2602.3 sec
+Loss_D_X 0.0000666 | Loss_D_Y 0.0000180 | Loss_G_F 0.0029823
+Epoch 197 | Cost 2602.9 sec
+Loss_D_X 0.0000066 | Loss_D_Y 0.0000706 | Loss_G_F 0.0037316
+Epoch 198 | Cost 2602.6 sec
+Loss_D_X 0.0000918 | Loss_D_Y 0.0000609 | Loss_G_F 0.0031375
+Epoch 199 | Cost 2602.4 sec
+Loss_D_X 0.0000573 | Loss_D_Y 0.0000516 | Loss_G_F 0.0023868
