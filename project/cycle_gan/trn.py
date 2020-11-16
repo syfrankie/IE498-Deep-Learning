@@ -55,7 +55,7 @@ cycle_loss = nn.L1Loss()
 iden_loss = nn.L1Loss()
 
 # gen & dis
-G, F = Generator(), Generator()
+G, F = Generator(num_blocks=9), Generator(num_blocks=9)
 D_X, D_Y = Discriminator(), Discriminator()
 
 # weights
